@@ -11,7 +11,7 @@ public class Main {
 		Dog dog1=new Dog("Bobik",12);
 		Dog dog2=new Dog("Warik",13);
 		Dog dog3=new Dog("Byte",14);
-		Dog dog4=new Dog("Virus",15);
+		Dog dog4=new Dog("Virus",16);
 //		DogComparator<Dog> comparator=new DogComparator();
 		Comparator<Dog> comparator=new Comparator<Dog>() {
 
